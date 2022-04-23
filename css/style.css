@@ -72,3 +72,36 @@
   a:visited {
     text-decoration: none;
   }
+
+
+  @media screen and (max-width: 800px) {
+ 
+
+    .backgroundImg img{
+       
+        width: 90vw;
+  
+    }
+    
+    #title{
+       
+         font-size: 4vw;
+         padding-bottom: 2vw;
+    
+      }
+    
+      #RRSS li{
+
+        font-size: 3.5vw;
+    
+      }
+
+      #RRSS{
+
+        transform: translateY(-3vw);
+      }
+    
+
+
+
+ }
