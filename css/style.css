@@ -18,18 +18,7 @@
       display: none;
   }
 
-  .logo{
-
-    width: 100%;
-    text-align: center;
-    padding: 2vw 0 2vw 0;
-  }
   
-  .logo img{
-     
-    width: 10vw;
-
-  }
 
   .backgroundImg{
       width: 100%;
@@ -46,6 +35,7 @@
   #RRSS{
 
     text-align: center;
+    transform: translateY(-2vw);
   }
 
   #title{
